@@ -93,8 +93,6 @@ evaluate_model(model, X_train, X_test, y_train, y_test, model_name)
 3. Make your changes
 4. Submit a pull request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Authors
 - Pushkar Visave
